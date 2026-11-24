@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=32&duration=2800&pause=800&color=2F81F7&center=true&vCenter=true&width=260&height=52&lines=%E4%B8%93%E6%B3%A8%3B%E5%A5%8B%E6%96%97%3B%E6%8A%98%E8%85%BE%3B%E7%83%AD%E7%88%B1" alt="专注 · 奋斗 · 折腾 · 热爱" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=2F81F7&center=true&vCenter=true&width=260&height=52&lines=Focus;Strive;Tinker;Love" alt="Focus · Strive · Tinker · Love" />
 
 **技术爱好者**
 
