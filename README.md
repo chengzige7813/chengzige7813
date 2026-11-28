@@ -14,10 +14,6 @@
 
 长期就这一个，其余还在本地长草。
 
-| 项目 | 是什么 | 用的 |
-| --- | --- | --- |
-| [magpie-cloud](https://github.com/chengzige7813/magpie-cloud) | 京东云 DevCloud 上跑 magpie 转发，把上游模型服务暴露成 OpenAI 兼容接口。启动逻辑全在 `bin/start.sh`，平台模板塞的那几个文件其实不参与运行 | Shell · 云容器 |
-
 
 
 ## Stack
